@@ -1,0 +1,3 @@
+{"ts":1663773536.971951,"uid":"CPiBqjxIc6f5Wtild","id.orig_h":"10.9.20.144","id.orig_p":49675,"id.resp_h":"10.9.20.5","id.resp_p":49692,"name":"netlogon_dce_rpc_auth_type","addl":"68","notice":false,"peer":"zeek","source":"DCE_RPC"}
+{"ts":1663773537.228118,"uid":"CzXYJ1cVOy3DBBlul","id.orig_h":"10.9.20.144","id.orig_p":49682,"id.resp_h":"10.9.20.5","id.resp_p":49667,"name":"netlogon_dce_rpc_auth_type","addl":"68","notice":false,"peer":"zeek","source":"DCE_RPC"}
+{"ts":1663773822.914881,"uid":"CR85dZ9zjsUARwn73","id.orig_h":"10.9.20.144","id.orig_p":49789,"id.resp_h":"10.9.20.5","id.resp_p":49667,"name":"netlogon_dce_rpc_auth_type","addl":"68","notice":false,"peer":"zeek","source":"DCE_RPC"}

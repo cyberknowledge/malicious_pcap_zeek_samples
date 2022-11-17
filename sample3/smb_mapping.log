@@ -1,0 +1,10 @@
+{"ts":1663773537.567293,"uid":"CuCnvb1T4dlhJgb1Ea","id.orig_h":"10.9.20.144","id.orig_p":49670,"id.resp_h":"10.9.20.5","id.resp_p":445,"path":"\\\\GOODPORPISES-DC.goodporpises.com\\IPC$","share_type":"PIPE"}
+{"ts":1663773538.097097,"uid":"CuCnvb1T4dlhJgb1Ea","id.orig_h":"10.9.20.144","id.orig_p":49670,"id.resp_h":"10.9.20.5","id.resp_p":445,"path":"\\\\GOODPORPISES-DC.goodporpises.com\\sysvol","share_type":"DISK"}
+{"ts":1663773544.75722,"uid":"CuCnvb1T4dlhJgb1Ea","id.orig_h":"10.9.20.144","id.orig_p":49670,"id.resp_h":"10.9.20.5","id.resp_p":445,"path":"\\\\GOODPORPISES-DC.goodporpises.com\\IPC$","share_type":"PIPE"}
+{"ts":1663773544.983336,"uid":"C3ROdC5ZjKbL4uBM8","id.orig_h":"10.9.20.144","id.orig_p":49711,"id.resp_h":"10.9.20.5","id.resp_p":445,"path":"\\\\GOODPORPISES-DC\\Shared","share_type":"DISK"}
+{"ts":1663774338.445961,"uid":"Cb7O3b2amDKXEM2WMk","id.orig_h":"10.9.20.144","id.orig_p":49803,"id.resp_h":"10.9.20.5","id.resp_p":139,"path":"\\\\GOODPORPISES-DC\\IPC$","service":"IPC","share_type":"PIPE"}
+{"ts":1663774368.454895,"uid":"COdclr2kWNZ7uXSBjj","id.orig_h":"10.9.20.144","id.orig_p":49804,"id.resp_h":"10.9.20.5","id.resp_p":139,"path":"\\\\GOODPORPISES-DC\\IPC$","service":"IPC","share_type":"PIPE"}
+{"ts":1663774398.474135,"uid":"CidCUykdBwVTszQGh","id.orig_h":"10.9.20.144","id.orig_p":49805,"id.resp_h":"10.9.20.5","id.resp_p":139,"path":"\\\\GOODPORPISES-DC\\IPC$","service":"IPC","share_type":"PIPE"}
+{"ts":1663774428.505085,"uid":"C4pChSmyIVsouxVI7","id.orig_h":"10.9.20.144","id.orig_p":49806,"id.resp_h":"10.9.20.5","id.resp_p":139,"path":"\\\\GOODPORPISES-DC\\IPC$","service":"IPC","share_type":"PIPE"}
+{"ts":1663774437.588315,"uid":"CZ8lui43JdHfmWtpCk","id.orig_h":"10.9.20.144","id.orig_p":49807,"id.resp_h":"10.9.20.5","id.resp_p":445,"path":"\\\\GOODPORPISES-DC.goodporpises.com\\IPC$","share_type":"PIPE"}
+{"ts":1663774458.52176,"uid":"CJ6Usg3nNOS32n0tL6","id.orig_h":"10.9.20.144","id.orig_p":49809,"id.resp_h":"10.9.20.5","id.resp_p":139,"path":"\\\\GOODPORPISES-DC\\IPC$","service":"IPC","share_type":"PIPE"}
